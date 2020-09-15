@@ -220,11 +220,10 @@
 
 编号：35  
 标题：《学习：HTML&CSS制作方向感知卡片悬停效果》  
-视频：<https://www.bilibili.com/video/BV17i4y1u7og>  
+视频：<https://www.bilibili.com/video/BV1Zv41117LL>  
 
 ### 目录：2020-9-16  
 
 编号：36  
 标题：《学习：HTML&CSS制作3D旋转图库》  
 视频：<https://www.bilibili.com/video/BV1K54y1m7S8>  
-
