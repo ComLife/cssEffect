@@ -30,6 +30,8 @@
 
 #### 5. 克隆代码
 
+执行下列命令代码：
+
 ``` bash
 git clone https://e.coding.net/dishiduo/hcj/hcj.git
 
