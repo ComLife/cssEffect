@@ -228,9 +228,14 @@
 标题：《学习：HTML&CSS制作3D旋转图库》  
 视频：<https://www.bilibili.com/video/BV1K54y1m7S8>  
 
-### 目录：2020-9-17（未发布）  
+### 目录：2020-9-17
 
 编号：37  
 标题：《学习：HTML&CSS制作响应式价格表单展示》  
 视频：<https://www.bilibili.com/video/BV1AZ4y1N7rK>  
 
+### 目录：2020-9-18
+
+编号：38  
+标题：《学习：HTML&CSS制作超棒按钮悬停效果》  
+视频：<https://www.bilibili.com/video/>  
