@@ -238,4 +238,4 @@
 
 编号：38  
 标题：《学习：HTML&CSS制作超棒按钮悬停效果》  
-视频：<https://www.bilibili.com/video/>  
+视频：<https://www.bilibili.com/video/BV1154y1C7Rn>  
