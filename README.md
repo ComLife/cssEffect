@@ -50,7 +50,6 @@ Resolving deltas: 100% (50/50), done.
 
 完成所有下载
 
-https://e.coding.net/dishiduo/hcj/hcj.git
 ---
 
 ## 索引  
