@@ -6,9 +6,54 @@
 
 ---
 
-## 索引  
+### 如何把代码下载到本地（Git Clone）
 
+> 这里以Windows举例，Linux、苹果类似。
+
+#### 1. 下载git
+
+下载地址：https://git-scm.com/downloads
+
+下载与当前系统匹配的版本，64位系统请下载64位安装包。
+
+#### 2. 安装
+
+直接运行安装包即可，正常一路下一步就可以。
+
+#### 3. 创建一个文件夹
+
+可以在任何地方创建
+
+#### 4. 进入文件夹，在资源管理器中地址栏输入CMD回车
+
+进入控制台模式
+
+#### 5. 克隆代码
+
+``` bash
+git clone https://e.coding.net/dishiduo/hcj/hcj.git
+
+```
+
+显示以下信息表示成功：
+
+``` Text
+Cloning into 'hcj'...
+remote: Enumerating objects: 208, done.
+remote: Counting objects: 100% (208/208), done.
+remote: Compressing objects: 100% (133/133), done.
+remote: Total 208 (delta 50), reused 182 (delta 36), pack-reused 0
+Receiving objects: 100% (208/208), 681.55 KiB | 802.00 KiB/s, done.
+Resolving deltas: 100% (50/50), done.
+
+```
+
+完成所有下载
+
+https://e.coding.net/dishiduo/hcj/hcj.git
 ---
+
+## 索引  
 
 ### 目录：2020-8/2020-8-12  
 
