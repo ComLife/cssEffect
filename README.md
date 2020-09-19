@@ -286,8 +286,14 @@ Resolving deltas: 100% (50/50), done.
 标题：《学习：HTML&CSS制作超棒按钮悬停效果》  
 视频：<https://www.bilibili.com/video/BV1154y1C7Rn>  
 
-### 目录：2020-9-19（未发布）  
+### 目录：2020-9-19  
 
 编号：39  
 标题：《学习：HTML&CSS制作橡皮筋弹跳动画效果》  
 视频：<https://www.bilibili.com/video/BV1mv41117a4>  
+
+### 目录：2020-9-20  
+
+编号：40  
+标题：《学习：HTML&CSS制作3D分层图像悬停效果》  
+视频：<https://www.bilibili.com/video/BV1kt4y1S7WQ>  
