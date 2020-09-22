@@ -304,5 +304,8 @@ Resolving deltas: 100% (50/50), done.
 标题：《HTML&CSS制作圆形进度条加载动画》  
 视频：<https://www.bilibili.com/video/BV14y4y1k7Te>  
 
-参考过好几个教程，原来是要做一个一键三连的动画，需要有圆形加载动画，不想用SVG，几个参考中的方法实现起来不方便也不好理解。所以自己用已掌握的知识原创一个，不知道有没有用过这个思路。这个代码还是有点问题的，后续在解决吧。
-代码已上传:https://dishiduo.coding.net/public/hcj/hcj/git
+### 目录：2020-9-22  
+
+编号：42  
+标题：《HTML&CSS制作放射线动画效果（爆炸线）》  
+视频：<https://www.bilibili.com/video/BV11V411m72i>  
