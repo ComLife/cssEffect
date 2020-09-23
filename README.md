@@ -309,3 +309,9 @@ Resolving deltas: 100% (50/50), done.
 编号：42  
 标题：《HTML&CSS制作放射线动画效果（爆炸线）》  
 视频：<https://www.bilibili.com/video/BV11V411m72i>  
+
+### 目录：2020-9-23  
+
+编号：43  
+标题：《学习：HTML&CSS制作气泡浮动效果》  
+视频：<https://www.bilibili.com/video/>  
