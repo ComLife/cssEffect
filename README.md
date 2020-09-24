@@ -315,3 +315,9 @@ Resolving deltas: 100% (50/50), done.
 编号：43  
 标题：《学习：HTML&CSS制作气泡浮动效果》  
 视频：<https://www.bilibili.com/video/BV1DK4y1a7m4>  
+
+### 目录：2020-9-24  
+
+编号：44  
+标题：《学习：HTML&CSS制作百叶窗效果》  
+视频：<https://www.bilibili.com/video/BV18z4y1Z7qg>  
