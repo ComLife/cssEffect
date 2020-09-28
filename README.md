@@ -334,8 +334,14 @@ Resolving deltas: 100% (50/50), done.
 标题：《学习：HTML&CSS制作超实用的鼠标悬停效果》  
 视频：<https://www.bilibili.com/video/BV1jh411X71M>  
 
-### 目录：2020-9-27（未发布）  
+### 目录：2020-9-27  
 
 编号：47  
 标题：《学习：HTML&CSS制作鼠标悬停效果》  
 视频：<https://www.bilibili.com/video/BV1FD4y1Z7si>  
+
+### 目录：2020-9-28  
+
+编号：48  
+标题：《HTML&CSS制作燃烧文字遮罩效果》  
+视频：<https://www.bilibili.com/video/BV1hh411X7Ez>  
