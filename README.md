@@ -345,3 +345,9 @@ Resolving deltas: 100% (50/50), done.
 编号：48  
 标题：《HTML&CSS制作燃烧文字遮罩效果》  
 视频：<https://www.bilibili.com/video/BV1hh411X7Ez>  
+
+### 目录：2020-9-29  
+
+编号：49  
+标题：《学习：HTML&CSS制作转盘式分享按钮效果》  
+视频：<https://www.bilibili.com/video/BV1g54y117Tj>  
