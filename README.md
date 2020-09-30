@@ -268,91 +268,91 @@ Resolving deltas: 100% (50/50), done.
 标题：《学习：HTML&CSS制作方向感知卡片悬停效果》  
 视频：<https://www.bilibili.com/video/BV1Zv41117LL>  
 
-### 目录：2020-9-16  
+### 目录：2020-9/2020-9-16  
 
 编号：36  
 标题：《学习：HTML&CSS制作3D旋转图库》  
 视频：<https://www.bilibili.com/video/BV1K54y1m7S8>  
 
-### 目录：2020-9-17
+### 目录：2020-9/2020-9-17
 
 编号：37  
 标题：《学习：HTML&CSS制作响应式价格表单展示》  
 视频：<https://www.bilibili.com/video/BV1AZ4y1N7rK>  
 
-### 目录：2020-9-18
+### 目录：2020-9/2020-9-18
 
 编号：38  
 标题：《学习：HTML&CSS制作超棒按钮悬停效果》  
 视频：<https://www.bilibili.com/video/BV1154y1C7Rn>  
 
-### 目录：2020-9-19  
+### 目录：2020-9/2020-9-19  
 
 编号：39  
 标题：《学习：HTML&CSS制作橡皮筋弹跳动画效果》  
 视频：<https://www.bilibili.com/video/BV1mv41117a4>  
 
-### 目录：2020-9-20  
+### 目录：2020-9/2020-9-20  
 
 编号：40  
 标题：《学习：HTML&CSS制作3D分层图像悬停效果》  
 视频：<https://www.bilibili.com/video/BV1kt4y1S7WQ>  
 
-### 目录：2020-9-21  
+### 目录：2020-9/2020-9-21  
 
 编号：41  
 标题：《HTML&CSS制作圆形进度条加载动画》  
 视频：<https://www.bilibili.com/video/BV14y4y1k7Te>  
 
-### 目录：2020-9-22  
+### 目录：2020-9/2020-9-22  
 
 编号：42  
 标题：《HTML&CSS制作放射线动画效果（爆炸线）》  
 视频：<https://www.bilibili.com/video/BV11V411m72i>  
 
-### 目录：2020-9-23  
+### 目录：2020-9/2020-9-23  
 
 编号：43  
 标题：《学习：HTML&CSS制作气泡浮动效果》  
 视频：<https://www.bilibili.com/video/BV1DK4y1a7m4>  
 
-### 目录：2020-9-24  
+### 目录：2020-9/2020-9-24  
 
 编号：44  
 标题：《学习：HTML&CSS制作百叶窗效果》  
 视频：<https://www.bilibili.com/video/BV18z4y1Z7qg>  
 
-### 目录：2020-9-25  
+### 目录：2020-9/2020-9-25  
 
 编号：45  
 标题：《学习：HTML&CSS制作多种炫酷鼠标悬浮效果》  
 视频：<https://www.bilibili.com/video/BV1RK411K73Q>  
 
-### 目录：2020-9-26  
+### 目录：2020-9/2020-9-26  
 
 编号：46  
 标题：《学习：HTML&CSS制作超实用的鼠标悬停效果》  
 视频：<https://www.bilibili.com/video/BV1jh411X71M>  
 
-### 目录：2020-9-27  
+### 目录：2020-9/2020-9-27  
 
 编号：47  
 标题：《学习：HTML&CSS制作鼠标悬停效果》  
 视频：<https://www.bilibili.com/video/BV1FD4y1Z7si>  
 
-### 目录：2020-9-28  
+### 目录：2020-9/2020-9-28  
 
 编号：48  
 标题：《HTML&CSS制作燃烧文字遮罩效果》  
 视频：<https://www.bilibili.com/video/BV1hh411X7Ez>  
 
-### 目录：2020-9-29  
+### 目录：2020-9/2020-9-29  
 
 编号：49  
 标题：《学习：HTML&CSS制作转盘式分享按钮效果》  
 视频：<https://www.bilibili.com/video/BV1g54y117Tj>  
 
-### 目录：2020-9-30  
+### 目录：2020-9/2020-9-30  
 
 编号：50  
 标题：《学习：HTML&CSS制作圆形进度加载动画》  
