@@ -351,3 +351,9 @@ Resolving deltas: 100% (50/50), done.
 编号：49  
 标题：《学习：HTML&CSS制作转盘式分享按钮效果》  
 视频：<https://www.bilibili.com/video/BV1g54y117Tj>  
+
+### 目录：2020-9-30  
+
+编号：50  
+标题：《学习：HTML&CSS制作圆形进度加载动画》  
+视频：<https://www.bilibili.com/video/BV1C54y117UC>  
