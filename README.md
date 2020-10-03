@@ -357,3 +357,10 @@ Resolving deltas: 100% (50/50), done.
 编号：50  
 标题：《学习：HTML&CSS制作圆形进度加载动画》  
 视频：<https://www.bilibili.com/video/BV1C54y117UC>  
+
+
+### 目录：B站
+
+编号：番外1
+标题：《秋天的第一个B站首页头部动画》
+视频：<https://www.bilibili.com/video/BV1wf4y1Q72M>
