@@ -358,11 +358,20 @@ Resolving deltas: 100% (50/50), done.
 标题：《学习：HTML&CSS制作圆形进度加载动画》  
 视频：<https://www.bilibili.com/video/BV1C54y117UC>  
 
-
 ### 目录：B站
 
 编号：番外1  
 标题：《秋天的第一个B站首页头部动画》  
 视频：<https://www.bilibili.com/video/BV1wf4y1Q72M>  
 
+### 目录：2020-10-1  
 
+编号：51  
+标题：《学习：HTML&CSS制作图片与图片的融合遮罩效果》  
+视频：<https://www.bilibili.com/video/BV1iZ4y157Ge>  
+
+### 目录：2020-10-2  
+
+编号：52  
+标题：《学习：HTML&CSS制作动态胶囊加载动画效果》  
+视频：<https://www.bilibili.com/video/BV1wK411N7Wp>  
