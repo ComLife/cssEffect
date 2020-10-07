@@ -375,3 +375,15 @@ Resolving deltas: 100% (50/50), done.
 编号：52  
 标题：《学习：HTML&CSS制作动态胶囊加载动画效果》  
 视频：<https://www.bilibili.com/video/BV1wK411N7Wp>  
+
+### 目录：2020-10-3  
+
+编号：53  
+标题：《学习：HTML&CSS制作3D社交媒体按钮效果》  
+视频：<https://www.bilibili.com/video/BV16T4y1c7Z5>  
+
+### 目录：2020-10-4  
+
+编号：54  
+标题：《学习：HTML&CSS实用社交分享按钮鼠标悬停效果》  
+视频：<https://www.bilibili.com/video/BV12T4y1c78J>  
