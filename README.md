@@ -399,3 +399,14 @@ Resolving deltas: 100% (50/50), done.
 编号：56  
 标题：《学习：HTML&CSS制作图片悬停黑白变色效果》  
 视频：<https://www.bilibili.com/video/BV1hA41177m2>  
+
+### 目录：2020-10-7  
+
+### 目录：2020-10-8  
+
+### 目录：2020-10-9  
+
+编号：59  
+标题：《学习：HTML&CSS实用社交分享按钮鼠标悬停效果（4）》  
+视频：<https://www.bilibili.com/video/BV1Uk4y1C7e1>  
+
