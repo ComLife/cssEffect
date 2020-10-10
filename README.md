@@ -402,6 +402,10 @@ Resolving deltas: 100% (50/50), done.
 
 ### 目录：2020-10-7  
 
+编号：57  
+标题：《学习：HTML&CSS制作加载完成对号动画效果》  
+视频：<https://www.bilibili.com/video/BV1na4y1L7b8>  
+
 ### 目录：2020-10-8  
 
 ### 目录：2020-10-9  
@@ -410,3 +414,8 @@ Resolving deltas: 100% (50/50), done.
 标题：《学习：HTML&CSS实用社交分享按钮鼠标悬停效果（4）》  
 视频：<https://www.bilibili.com/video/BV1Uk4y1C7e1>  
 
+### 目录：2020-10-10  
+
+编号：60  
+标题：《学习：HTML&CSS制作炫酷网页加载动画》  
+视频：<https://www.bilibili.com/video/BV1Rt4y1v7fe>  
