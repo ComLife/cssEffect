@@ -419,3 +419,10 @@ Resolving deltas: 100% (50/50), done.
 编号：60  
 标题：《学习：HTML&CSS制作炫酷网页加载动画》  
 视频：<https://www.bilibili.com/video/BV1Rt4y1v7fe>  
+
+### 目录：2020-10-11  
+
+编号：61  
+标题：《学习：HTML&CSS制作页面加载动画特效》  
+视频：<https://www.bilibili.com/video/BV1U5411574y>  
+
