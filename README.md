@@ -408,6 +408,15 @@ Resolving deltas: 100% (50/50), done.
 
 ### 目录：2020-10-8  
 
+编号：58  
+标题：《学习：HTML&CSS实用社交分享按钮鼠标悬停效果（3）》  
+视频：<https://www.bilibili.com/video/>  
+
+视频与代码有差异，可下载查看。
+代码已上传:https://dishiduo.coding.net/public/hcj/hcj/git
+
+原教程: BV13f4y1R7Re
+
 ### 目录：2020-10-9  
 
 编号：59  
