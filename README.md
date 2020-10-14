@@ -444,3 +444,10 @@ Resolving deltas: 100% (50/50), done.
 标题：《学习：HTML&CSS制作一个404页面效果（2）》  
 视频：<https://www.bilibili.com/video/BV1D541157iK>  
 
+
+### 目录：2020-10-14  
+
+编号：64  
+标题：《学习：HTML&CSS实现柱状效果展示》  
+视频：<https://www.bilibili.com/video/BV16541157dG>  
+
