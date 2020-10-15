@@ -451,3 +451,9 @@ Resolving deltas: 100% (50/50), done.
 标题：《学习：HTML&CSS实现柱状效果展示》  
 视频：<https://www.bilibili.com/video/BV16541157dG>  
 
+### 目录：2020-10-15  
+
+编号：65  
+标题：《学习：HTML&CSS制作APP底部导航栏》  
+视频：<https://www.bilibili.com/video/BV1V541177m2>  
+
