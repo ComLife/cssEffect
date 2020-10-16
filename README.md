@@ -457,3 +457,8 @@ Resolving deltas: 100% (50/50), done.
 标题：《学习：HTML&CSS制作APP底部导航栏》  
 视频：<https://www.bilibili.com/video/BV1V541177m2>  
 
+### 目录：2020-10-16  
+
+编号：66  
+标题：《Else帮：用JS实现过渡动画效果》  
+视频：<https://www.bilibili.com/video/BV1Ev411k7NK>  
