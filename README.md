@@ -475,3 +475,9 @@ Resolving deltas: 100% (50/50), done.
 标题：《UP主，丧尽天良，竟然强迫HTML、CSS、JS干这个...》  
 视频：<https://www.bilibili.com/video/BV1ai4y1j75s>  
 
+### 目录：2020-10-19  
+
+编号：69  
+标题：《制作可以动的iPhone12发布海报 by JS&HTML&CSS》  
+视频：<https://www.bilibili.com/video/>  
+
