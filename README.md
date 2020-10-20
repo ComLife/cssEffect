@@ -479,5 +479,11 @@ Resolving deltas: 100% (50/50), done.
 
 编号：69  
 标题：《制作可以动的iPhone12发布海报 by JS&HTML&CSS》  
-视频：<https://www.bilibili.com/video/>  
+视频：<https://www.bilibili.com/video/BV1PZ4y1L78g>  
 
+
+### 目录：2020-10-20  
+
+编号：70  
+标题：《练习：HTML&CSS实现一个催眠动画，5分钟不睡算我输》  
+视频：<https://www.bilibili.com/video/BV1vT4y1F71d>  
