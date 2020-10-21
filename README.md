@@ -487,3 +487,11 @@ Resolving deltas: 100% (50/50), done.
 编号：70  
 标题：《练习：HTML&CSS实现一个催眠动画，5分钟不睡算我输》  
 视频：<https://www.bilibili.com/video/BV1vT4y1F71d>  
+
+
+### 目录：2020-10-21  
+
+编号：71  
+标题：《学习：HTML&CSS制作一个卡通电风扇效果》  
+视频：<https://www.bilibili.com/video/BV1wr4y1w79C>  
+
