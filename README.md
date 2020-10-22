@@ -495,3 +495,9 @@ Resolving deltas: 100% (50/50), done.
 标题：《学习：HTML&CSS制作一个卡通电风扇效果》  
 视频：<https://www.bilibili.com/video/BV1wr4y1w79C>  
 
+
+### 目录：2020-10-22  
+
+编号：72  
+标题：《学习：HTML&CSS制作文字上下浮动效果》  
+视频：<https://www.bilibili.com/video/BV1ay4y1r7hy>  
