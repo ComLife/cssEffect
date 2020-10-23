@@ -501,3 +501,10 @@ Resolving deltas: 100% (50/50), done.
 编号：72  
 标题：《学习：HTML&CSS制作文字上下浮动效果》  
 视频：<https://www.bilibili.com/video/BV1ay4y1r7hy>  
+
+### 目录：2020-10-23  
+
+编号：73  
+标题：《学习：HTML&CSS制作弯曲文本标题特效》  
+视频：<https://www.bilibili.com/video/BV1Rf4y1B7Rp>  
+
