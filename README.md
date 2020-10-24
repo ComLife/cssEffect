@@ -508,3 +508,10 @@ Resolving deltas: 100% (50/50), done.
 标题：《学习：HTML&CSS制作弯曲文本标题特效》  
 视频：<https://www.bilibili.com/video/BV1Rf4y1B7Rp>  
 
+
+### 目录：2020-10-24（未发布）  
+
+编号：74  
+标题：《学习：HTML&CSS制作一个花瓣旋转的页面加载效果》  
+视频：<https://www.bilibili.com/video/BV1wr4y1w7gw>  
+
