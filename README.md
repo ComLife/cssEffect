@@ -515,3 +515,9 @@ Resolving deltas: 100% (50/50), done.
 标题：《学习：HTML&CSS制作一个花瓣旋转的页面加载效果》  
 视频：<https://www.bilibili.com/video/BV1wr4y1w7gw>  
 
+### 目录：2020-10-25（未发布）  
+
+编号：75  
+标题：《学习：HTML&CSS实现一个彩色波浪动画特效》  
+视频：<https://www.bilibili.com/video/BV1at4y1i7te>  
+
