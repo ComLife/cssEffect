@@ -509,15 +509,22 @@ Resolving deltas: 100% (50/50), done.
 视频：<https://www.bilibili.com/video/BV1Rf4y1B7Rp>  
 
 
-### 目录：2020-10-24（未发布）  
+### 目录：2020-10-24  
 
 编号：74  
 标题：《学习：HTML&CSS制作一个花瓣旋转的页面加载效果》  
 视频：<https://www.bilibili.com/video/BV1wr4y1w7gw>  
 
-### 目录：2020-10-25（未发布）  
+### 目录：2020-10-25  
 
 编号：75  
 标题：《学习：HTML&CSS实现一个彩色波浪动画特效》  
 视频：<https://www.bilibili.com/video/BV1at4y1i7te>  
+
+
+### 目录：2020-10-26  
+
+编号：76  
+标题：《挑战：HTML&CSS&JS实现3D反转轮播图》  
+视频：<https://www.bilibili.com/video/BV19v411k7UE>  
 
