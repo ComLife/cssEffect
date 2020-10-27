@@ -528,3 +528,9 @@ Resolving deltas: 100% (50/50), done.
 标题：《挑战：HTML&CSS&JS实现3D反转轮播图》  
 视频：<https://www.bilibili.com/video/BV19v411k7UE>  
 
+### 目录：2020-10-27  
+
+编号：77  
+标题：《学习：HTML&CSS制作炫酷的旋转动画》  
+视频：<https://www.bilibili.com/video/BV13y4y1r7Yz>  
+
