@@ -539,13 +539,7 @@ Resolving deltas: 100% (50/50), done.
 
 编号：79  
 标题：《学习：HTML&CSS实现立体翻开纸张文字效果》  
-视频：<https://www.bilibili.com/video/>  
-
-这个效果原本用ps实现的，后来觉得可以用css尝试一下，基本的样子有了，但是不是很理想。
-
-代码已上传:https://dishiduo.coding.net/public/hcj/hcj/git
-
-参考动效: BV1zy4y1k7L7
+视频：<https://www.bilibili.com/video/BV1MA411E73u>  
 
 
 ### 目录：2020-11-7  
