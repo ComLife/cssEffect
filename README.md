@@ -534,3 +534,9 @@ Resolving deltas: 100% (50/50), done.
 标题：《学习：HTML&CSS制作炫酷的旋转动画》  
 视频：<https://www.bilibili.com/video/BV13y4y1r7Yz>  
 
+### 目录：2020-11-7  
+
+编号：88  
+标题：《一起来做【一键三连】效果（提供代码下载）》  
+视频：<https://www.bilibili.com/video/BV1p54y1C7nb>  
+
