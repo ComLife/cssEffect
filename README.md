@@ -364,196 +364,196 @@ Resolving deltas: 100% (50/50), done.
 标题：《秋天的第一个B站首页头部动画》  
 视频：<https://www.bilibili.com/video/BV1wf4y1Q72M>  
 
-### 目录：2020-10-1  
+### 目录：2020-10/2020-10-1  
 
 编号：51  
 标题：《学习：HTML&CSS制作图片与图片的融合遮罩效果》  
 视频：<https://www.bilibili.com/video/BV1iZ4y157Ge>  
 
-### 目录：2020-10-2  
+### 目录：2020-10/2020-10-2  
 
 编号：52  
 标题：《学习：HTML&CSS制作动态胶囊加载动画效果》  
 视频：<https://www.bilibili.com/video/BV1wK411N7Wp>  
 
-### 目录：2020-10-3  
+### 目录：2020-10/2020-10-3  
 
 编号：53  
 标题：《学习：HTML&CSS制作3D社交媒体按钮效果》  
 视频：<https://www.bilibili.com/video/BV16T4y1c7Z5>  
 
-### 目录：2020-10-4  
+### 目录：2020-10/2020-10-4  
 
 编号：54  
 标题：《学习：HTML&CSS实用社交分享按钮鼠标悬停效果》  
 视频：<https://www.bilibili.com/video/BV12T4y1c78J>  
 
-### 目录：2020-10-5  
+### 目录：2020-10/2020-10-5  
 
 编号：55  
 标题：《学习：HTML&CSS实用社交分享按钮鼠标悬停效果（2）》  
 视频：<https://www.bilibili.com/video/BV1Ta4y1776P>  
 
-### 目录：2020-10-6  
+### 目录：2020-10/2020-10-6  
 
 编号：56  
 标题：《学习：HTML&CSS制作图片悬停黑白变色效果》  
 视频：<https://www.bilibili.com/video/BV1hA41177m2>  
 
-### 目录：2020-10-7  
+### 目录：2020-10/2020-10-7  
 
 编号：57  
 标题：《学习：HTML&CSS制作加载完成对号动画效果》  
 视频：<https://www.bilibili.com/video/BV1na4y1L7b8>  
 
-### 目录：2020-10-8  
+### 目录：2020-10/2020-10-8  
 
 编号：58  
 标题：《学习：HTML&CSS实用社交分享按钮鼠标悬停效果（3）》  
 视频：<https://www.bilibili.com/video/BV1jf4y1B7PK>  
 
-### 目录：2020-10-9  
+### 目录：2020-10/2020-10-9  
 
 编号：59  
 标题：《学习：HTML&CSS实用社交分享按钮鼠标悬停效果（4）》  
 视频：<https://www.bilibili.com/video/BV1Uk4y1C7e1>  
 
-### 目录：2020-10-10  
+### 目录：2020-10/2020-10-10  
 
 编号：60  
 标题：《学习：HTML&CSS制作炫酷网页加载动画》  
 视频：<https://www.bilibili.com/video/BV1Rt4y1v7fe>  
 
-### 目录：2020-10-11  
+### 目录：2020-10/2020-10-11  
 
 编号：61  
 标题：《学习：HTML&CSS制作页面加载动画特效》  
 视频：<https://www.bilibili.com/video/BV1U5411574y>  
 
 
-### 目录：2020-10-12  
+### 目录：2020-10/2020-10-12  
 
 编号：62  
 标题：《学习：HTML&CSS制作一个404页面效果（1）》  
 视频：<https://www.bilibili.com/video/BV1nZ4y1L7ht>  
 
 
-### 目录：2020-10-13  
+### 目录：2020-10/2020-10-13  
 
 编号：63  
 标题：《学习：HTML&CSS制作一个404页面效果（2）》  
 视频：<https://www.bilibili.com/video/BV1D541157iK>  
 
 
-### 目录：2020-10-14  
+### 目录：2020-10/2020-10-14  
 
 编号：64  
 标题：《学习：HTML&CSS实现柱状效果展示》  
 视频：<https://www.bilibili.com/video/BV16541157dG>  
 
-### 目录：2020-10-15  
+### 目录：2020-10/2020-10-15  
 
 编号：65  
 标题：《学习：HTML&CSS制作APP底部导航栏》  
 视频：<https://www.bilibili.com/video/BV1V541177m2>  
 
-### 目录：2020-10-16  
+### 目录：2020-10/2020-10-16  
 
 编号：66  
 标题：《Else帮：用JS实现过渡动画效果》  
 视频：<https://www.bilibili.com/video/BV1Ev411k7NK>  
 
-### 目录：2020-10-17  
+### 目录：2020-10/2020-10-17  
 
 编号：67  
 标题：《尝试：HTML&CSS制作漫天流星雨效果（3D透视）》  
 视频：<https://www.bilibili.com/video/BV1ct4y1i7Hv>  
 
-### 目录：2020-10-18  
+### 目录：2020-10/2020-10-18  
 
 编号：68  
 标题：《UP主，丧尽天良，竟然强迫HTML、CSS、JS干这个...》  
 视频：<https://www.bilibili.com/video/BV1ai4y1j75s>  
 
-### 目录：2020-10-19  
+### 目录：2020-10/2020-10-19  
 
 编号：69  
 标题：《制作可以动的iPhone12发布海报 by JS&HTML&CSS》  
 视频：<https://www.bilibili.com/video/BV1PZ4y1L78g>  
 
 
-### 目录：2020-10-20  
+### 目录：2020-10/2020-10-20  
 
 编号：70  
 标题：《练习：HTML&CSS实现一个催眠动画，5分钟不睡算我输》  
 视频：<https://www.bilibili.com/video/BV1vT4y1F71d>  
 
 
-### 目录：2020-10-21  
+### 目录：2020-10/2020-10-21  
 
 编号：71  
 标题：《学习：HTML&CSS制作一个卡通电风扇效果》  
 视频：<https://www.bilibili.com/video/BV1wr4y1w79C>  
 
 
-### 目录：2020-10-22  
+### 目录：2020-10/2020-10-22  
 
 编号：72  
 标题：《学习：HTML&CSS制作文字上下浮动效果》  
 视频：<https://www.bilibili.com/video/BV1ay4y1r7hy>  
 
-### 目录：2020-10-23  
+### 目录：2020-10/2020-10-23  
 
 编号：73  
 标题：《学习：HTML&CSS制作弯曲文本标题特效》  
 视频：<https://www.bilibili.com/video/BV1Rf4y1B7Rp>  
 
 
-### 目录：2020-10-24  
+### 目录：2020-10/2020-10-24  
 
 编号：74  
 标题：《学习：HTML&CSS制作一个花瓣旋转的页面加载效果》  
 视频：<https://www.bilibili.com/video/BV1wr4y1w7gw>  
 
-### 目录：2020-10-25  
+### 目录：2020-10/2020-10-25  
 
 编号：75  
 标题：《学习：HTML&CSS实现一个彩色波浪动画特效》  
 视频：<https://www.bilibili.com/video/BV1at4y1i7te>  
 
 
-### 目录：2020-10-26  
+### 目录：2020-10/2020-10-26  
 
 编号：76  
 标题：《挑战：HTML&CSS&JS实现3D反转轮播图》  
 视频：<https://www.bilibili.com/video/BV19v411k7UE>  
 
-### 目录：2020-10-27  
+### 目录：2020-10/2020-10-27  
 
 编号：77  
 标题：《学习：HTML&CSS制作炫酷的旋转动画》  
 视频：<https://www.bilibili.com/video/BV13y4y1r7Yz>  
 
-### 目录：2020-10-28  
+### 目录：2020-10/2020-10-28  
 
 编号：78  
 标题：《学习：HTML&CSS制作Q弹的图标展开效果》  
 视频：<https://www.bilibili.com/video/BV1iz4y1o7cY>  
 
 
-### 目录：2020-10-29  
+### 目录：2020-10/2020-10-29  
 
 编号：79  
 标题：《学习：HTML&CSS实现立体翻开纸张文字效果》  
 视频：<https://www.bilibili.com/video/BV1MA411E73u>  
 
-### 目录：2020-10-30  
+### 目录：2020-10/2020-10-30  
 
 编号：80  
 标题：《学习：HTML&CSS实现鼠标悬停3D立体分层按钮》  
 视频：<https://www.bilibili.com/video/BV1wy4y187jJ>  
 
-### 目录：2020-10-31  
+### 目录：2020-10/2020-10-31  
 
 编号：81  
 标题：《学习：HTML&CSS实现导航栏滑动背景效果》  
