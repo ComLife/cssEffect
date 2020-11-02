@@ -559,6 +559,12 @@ Resolving deltas: 100% (50/50), done.
 标题：《学习：HTML&CSS实现导航栏滑动背景效果》  
 视频：<https://www.bilibili.com/video/BV1mt4y1e7N9>  
 
+### 目录：2020-11-1（未发布）  
+
+编号：82  
+标题：《学习：HTML&CSS制作拟物炫彩页面加载效果》  
+视频：<https://www.bilibili.com/video/BV1454y1r7LF>  
+
 ### 目录：2020-11-7  
 
 编号：88  
