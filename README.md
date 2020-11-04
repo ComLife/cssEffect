@@ -571,6 +571,12 @@ Resolving deltas: 100% (50/50), done.
 标题：《学习：HTML&CSS实现滑动的菜单悬停特效》  
 视频：<https://www.bilibili.com/video/BV1nt4y1e7KT>  
 
+### 目录：2020-11-3  
+
+编号：84  
+标题：《学习：HTML&CSS制作文字裂开的效果》  
+视频：<https://www.bilibili.com/video/BV1Ay4y1z7ik>  
+
 ### 目录：2020-11-7  
 
 编号：88  
@@ -578,4 +584,3 @@ Resolving deltas: 100% (50/50), done.
 视频：<https://www.bilibili.com/video/BV1p54y1C7nb>  
 
 
-测试2
