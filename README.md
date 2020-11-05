@@ -430,20 +430,17 @@ Resolving deltas: 100% (50/50), done.
 标题：《学习：HTML&CSS制作页面加载动画特效》  
 视频：<https://www.bilibili.com/video/BV1U5411574y>  
 
-
 ### 目录：2020-10/2020-10-12  
 
 编号：62  
 标题：《学习：HTML&CSS制作一个404页面效果（1）》  
 视频：<https://www.bilibili.com/video/BV1nZ4y1L7ht>  
 
-
 ### 目录：2020-10/2020-10-13  
 
 编号：63  
 标题：《学习：HTML&CSS制作一个404页面效果（2）》  
 视频：<https://www.bilibili.com/video/BV1D541157iK>  
-
 
 ### 目录：2020-10/2020-10-14  
 
@@ -481,20 +478,17 @@ Resolving deltas: 100% (50/50), done.
 标题：《制作可以动的iPhone12发布海报 by JS&HTML&CSS》  
 视频：<https://www.bilibili.com/video/BV1PZ4y1L78g>  
 
-
 ### 目录：2020-10/2020-10-20  
 
 编号：70  
 标题：《练习：HTML&CSS实现一个催眠动画，5分钟不睡算我输》  
 视频：<https://www.bilibili.com/video/BV1vT4y1F71d>  
 
-
 ### 目录：2020-10/2020-10-21  
 
 编号：71  
 标题：《学习：HTML&CSS制作一个卡通电风扇效果》  
 视频：<https://www.bilibili.com/video/BV1wr4y1w79C>  
-
 
 ### 目录：2020-10/2020-10-22  
 
@@ -508,7 +502,6 @@ Resolving deltas: 100% (50/50), done.
 标题：《学习：HTML&CSS制作弯曲文本标题特效》  
 视频：<https://www.bilibili.com/video/BV1Rf4y1B7Rp>  
 
-
 ### 目录：2020-10/2020-10-24  
 
 编号：74  
@@ -520,7 +513,6 @@ Resolving deltas: 100% (50/50), done.
 编号：75  
 标题：《学习：HTML&CSS实现一个彩色波浪动画特效》  
 视频：<https://www.bilibili.com/video/BV1at4y1i7te>  
-
 
 ### 目录：2020-10/2020-10-26  
 
@@ -539,7 +531,6 @@ Resolving deltas: 100% (50/50), done.
 编号：78  
 标题：《学习：HTML&CSS制作Q弹的图标展开效果》  
 视频：<https://www.bilibili.com/video/BV1iz4y1o7cY>  
-
 
 ### 目录：2020-10/2020-10-29  
 
@@ -577,10 +568,14 @@ Resolving deltas: 100% (50/50), done.
 标题：《学习：HTML&CSS制作文字裂开的效果》  
 视频：<https://www.bilibili.com/video/BV1Ay4y1z7ik>  
 
+### 目录：2020-11-4  
+
+编号：85  
+标题：《学习：JS&HTML&CSS实现五彩缤纷的LED绘画板特效》  
+视频：<https://www.bilibili.com/video/BV1Bv41167oC>  
+
 ### 目录：2020-11-7  
 
 编号：88  
 标题：《一起来做【一键三连】效果（提供代码下载）》  
 视频：<https://www.bilibili.com/video/BV1p54y1C7nb>  
-
-
