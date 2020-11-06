@@ -574,6 +574,12 @@ Resolving deltas: 100% (50/50), done.
 标题：《学习：JS&HTML&CSS实现五彩缤纷的LED绘画板特效》  
 视频：<https://www.bilibili.com/video/BV1Bv41167oC>  
 
+### 目录：2020-11-5  
+
+编号：86  
+标题：《学习：HTML&CSS制作渐变悬浮按钮效果》  
+视频：<https://www.bilibili.com/video/BV1za4y1s7Z1>  
+
 ### 目录：2020-11-7  
 
 编号：88  
