@@ -580,6 +580,12 @@ Resolving deltas: 100% (50/50), done.
 标题：《学习：HTML&CSS制作渐变悬浮按钮效果》  
 视频：<https://www.bilibili.com/video/BV1za4y1s7Z1>  
 
+### 目录：2020-11-6  
+
+编号：87  
+标题：《学习：HTML&CSS制作炫酷分页按钮》  
+视频：<https://www.bilibili.com/video/BV1St4y1e7HM>  
+
 ### 目录：2020-11-7  
 
 编号：88  
