@@ -591,3 +591,9 @@ Resolving deltas: 100% (50/50), done.
 编号：88  
 标题：《一起来做【一键三连】效果（提供代码下载）》  
 视频：<https://www.bilibili.com/video/BV1p54y1C7nb>  
+
+### 目录：2020-11-8（未发布）  
+
+编号：89  
+标题：《纯CSS实现好看的轮播图效果（这次是纯的）》  
+视频：<https://www.bilibili.com/video/BV1Fi4y1L7Et>  
