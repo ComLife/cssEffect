@@ -603,3 +603,9 @@ Resolving deltas: 100% (50/50), done.
 编号：90  
 标题：《学习：HMTL&CSS制作鼠标悬浮文字收展效果》  
 视频：<https://www.bilibili.com/video/BV1CD4y197yJ>  
+
+### 目录：2020-11-10  
+
+编号：91  
+标题：《学习：HMTL&CSS制作视频背景+固定侧边工具栏效果》  
+视频：<https://www.bilibili.com/video/BV19p4y1k7G1>  
