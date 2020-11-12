@@ -616,4 +616,8 @@ Resolving deltas: 100% (50/50), done.
 标题：《学习：HMTL&CSS制作三个按钮悬浮效果》  
 视频：<https://www.bilibili.com/video/BV1Cy4y1z7Nz>  
 
+### 目录：2020-11-12  
 
+编号：93  
+标题：《学习：HMTL&CSS实现的卡通文字动画演示》  
+视频：<https://www.bilibili.com/video/BV1YZ4y1V7HG>  
