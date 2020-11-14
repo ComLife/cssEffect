@@ -622,7 +622,7 @@ Resolving deltas: 100% (50/50), done.
 标题：《学习：HMTL&CSS实现的卡通文字动画演示》  
 视频：<https://www.bilibili.com/video/BV1YZ4y1V7HG>  
 
-### 目录：2020-11-13
+### 目录：2020-11-13  
 
 编号：94  
 标题：《学习：纯CSS制作二级下拉导航菜单》  
@@ -633,3 +633,9 @@ Resolving deltas: 100% (50/50), done.
 编号：95  
 标题：《学习：HMTL&CSS制作四个汉堡按钮动画效果》  
 视频：<https://www.bilibili.com/video/BV17V411a7Ro>  
+
+### 目录：2020-11-15  
+
+编号：96  
+标题：《学习：HMTL&CSS制作汉堡按钮控制侧滑菜单显示》  
+视频：<https://www.bilibili.com/video/BV1xy4y1z79o>  
