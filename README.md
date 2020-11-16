@@ -550,97 +550,97 @@ Resolving deltas: 100% (50/50), done.
 标题：《学习：HTML&CSS实现导航栏滑动背景效果》  
 视频：<https://www.bilibili.com/video/BV1mt4y1e7N9>  
 
-### 目录：2020-11-1  
+### 目录：2020-11/2020-11-1  
 
 编号：82  
 标题：《学习：HTML&CSS制作拟物炫彩页面加载效果》  
 视频：<https://www.bilibili.com/video/BV1454y1r7LF>  
 
-### 目录：2020-11-2  
+### 目录：2020-11/2020-11-2  
 
 编号：83  
 标题：《学习：HTML&CSS实现滑动的菜单悬停特效》  
 视频：<https://www.bilibili.com/video/BV1nt4y1e7KT>  
 
-### 目录：2020-11-3  
+### 目录：2020-11/2020-11-3  
 
 编号：84  
 标题：《学习：HTML&CSS制作文字裂开的效果》  
 视频：<https://www.bilibili.com/video/BV1Ay4y1z7ik>  
 
-### 目录：2020-11-4  
+### 目录：2020-11/2020-11-4  
 
 编号：85  
 标题：《学习：JS&HTML&CSS实现五彩缤纷的LED绘画板特效》  
 视频：<https://www.bilibili.com/video/BV1Bv41167oC>  
 
-### 目录：2020-11-5  
+### 目录：2020-11/2020-11-5  
 
 编号：86  
 标题：《学习：HTML&CSS制作渐变悬浮按钮效果》  
 视频：<https://www.bilibili.com/video/BV1za4y1s7Z1>  
 
-### 目录：2020-11-6  
+### 目录：2020-11/2020-11-6  
 
 编号：87  
 标题：《学习：HTML&CSS制作炫酷分页按钮》  
 视频：<https://www.bilibili.com/video/BV1St4y1e7HM>  
 
-### 目录：2020-11-7  
+### 目录：2020-11/2020-11-7  
 
 编号：88  
 标题：《一起来做【一键三连】效果（提供代码下载）》  
 视频：<https://www.bilibili.com/video/BV1p54y1C7nb>  
 
-### 目录：2020-11-8  
+### 目录：2020-11/2020-11-8  
 
 编号：89  
 标题：《纯CSS实现好看的轮播图效果（这次是纯的）》  
 视频：<https://www.bilibili.com/video/BV1Fi4y1L7Et>  
 
-### 目录：2020-11-9  
+### 目录：2020-11/2020-11-9  
 
 编号：90  
 标题：《学习：HMTL&CSS制作鼠标悬浮文字收展效果》  
 视频：<https://www.bilibili.com/video/BV1CD4y197yJ>  
 
-### 目录：2020-11-10  
+### 目录：2020-11/2020-11-10  
 
 编号：91  
 标题：《学习：HMTL&CSS制作视频背景+固定侧边工具栏效果》  
 视频：<https://www.bilibili.com/video/BV19p4y1k7G1>  
 
-### 目录：2020-11-11  
+### 目录：2020-11/2020-11-11  
 
 编号：92  
 标题：《学习：HMTL&CSS制作三个按钮悬浮效果》  
 视频：<https://www.bilibili.com/video/BV1Cy4y1z7Nz>  
 
-### 目录：2020-11-12  
+### 目录：2020-11/2020-11-12  
 
 编号：93  
 标题：《学习：HMTL&CSS实现的卡通文字动画演示》  
 视频：<https://www.bilibili.com/video/BV1YZ4y1V7HG>  
 
-### 目录：2020-11-13  
+### 目录：2020-11/2020-11-13  
 
 编号：94  
 标题：《学习：纯CSS制作二级下拉导航菜单》  
 视频：<https://www.bilibili.com/video/BV1ia411w71V>  
 
-### 目录：2020-11-14  
+### 目录：2020-11/2020-11-14  
 
 编号：95  
 标题：《学习：HMTL&CSS制作四个汉堡按钮动画效果》  
 视频：<https://www.bilibili.com/video/BV17V411a7Ro>  
 
-### 目录：2020-11-15  
+### 目录：2020-11/2020-11-15  
 
 编号：96  
 标题：《学习：HMTL&CSS制作汉堡按钮控制侧滑菜单显示》  
 视频：<https://www.bilibili.com/video/BV1xy4y1z79o>  
 
-### 目录：2020-11-16（未发布）  
+### 目录：2020-11/2020-11-16  
 
 编号：97  
 标题：《学习：HTML+CSS实现按钮悬浮动态效果》  
