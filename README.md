@@ -652,3 +652,8 @@ Resolving deltas: 100% (50/50), done.
 标题：《学习：HTML+CSS制作手风琴文字展示效果》  
 视频：<https://www.bilibili.com/video/BV19a411c7i1>  
 
+### 目录：2020-11/2020-11-18  
+
+编号：99  
+标题：《学习：HTML+CSS制作粘性融合的小球》  
+视频：<https://www.bilibili.com/video/BV1bi4y1L7Yt>  
