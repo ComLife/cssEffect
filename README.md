@@ -657,3 +657,10 @@ Resolving deltas: 100% (50/50), done.
 编号：99  
 标题：《学习：HTML+CSS制作粘性融合的小球》  
 视频：<https://www.bilibili.com/video/BV1bi4y1L7Yt>  
+
+### 目录：2020-11/2020-11-19  
+
+编号：100  
+标题：《学习：HTML+CSS制作文字跳动效果》  
+视频：<https://www.bilibili.com/video/BV1TD4y1X76T>  
+
