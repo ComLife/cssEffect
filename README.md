@@ -664,3 +664,8 @@ Resolving deltas: 100% (50/50), done.
 标题：《学习：HTML+CSS制作文字跳动效果》  
 视频：<https://www.bilibili.com/video/BV1TD4y1X76T>  
 
+### 目录：2020-11/2020-11-20（未发布）  
+
+编号：101  
+标题：《挑战：HTML+CSS制作传送带样子的加载动画》  
+视频：<https://www.bilibili.com/video/BV1154y1z7SN>  
